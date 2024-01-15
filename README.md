@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Frontend and App development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **web development and flutter**
+- 💬 Ask me about **web development and react**
 
 - 📫 How to reach me **rishavsc18@gmail.com**
 
