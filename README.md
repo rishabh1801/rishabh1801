@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png)
-<h1 align="center"> there👋, I'm Rishabh Singh</h1>
+<h1 align="center"> Hi there👋, I'm Rishabh Singh</h1>
 <h3 align="center"> 🚀 Aficionado about Front-end Development and Mobile App Development </h3>
 <img align="right" alt="coding" width"220" src="https://iconscout.com/lottie-animation/man-doing-freelancing-work-9305692">
 
