@@ -14,8 +14,11 @@
 
 - 📫 How to reach me **rishavsc18@gmail.com**
 
-
 - ⚡ Fun fact **I speak fluent binary - 01100110 01110101 01101110!**
+  
+- ** 🎸 Beyond Coding
+Guitarist 🎵 | Creative Thinker 💡 | AI Trainer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
