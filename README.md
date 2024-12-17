@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I speak fluent binary - 01100110 01110101 01101110!**
   
-- ** 🎸 Beyond Coding
+- **🎸 Beyond Coding
 Guitarist 🎵 | Creative Thinker 💡 | AI Trainer**
 
 
