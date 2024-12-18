@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishavsc" target="blank"><img src="https://img.shields.io/twitter/follow/rishavsc?logo=twitter&style=for-the-badge" alt="rishavsc" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend and App development**
+- 🔭 I’m currently working on **Frontend development**
 
 - 🌱 I’m currently learning **React**
 
