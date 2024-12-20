@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **web development and react**
-- - 💬 Ask me about **web development and react**
-
 
 - 📫 How to reach me **rishavsc18@gmail.com**
 
