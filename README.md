@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on **Frontend development**
 
 - 🌱 I’m currently learning **React**
-- - 🌱 I’m currently learning **React**
-
 
 - 💬 Ask me about **web development and react**
 
